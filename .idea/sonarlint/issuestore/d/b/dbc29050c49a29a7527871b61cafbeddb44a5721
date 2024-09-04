@@ -1,0 +1,7 @@
+
+kphp:S103"KSplit this 122 characters long line (which is greater than 120 authorized).(î ‘Ôùÿÿÿÿ8óÆ—¯2
+b	php:S1779"NReplace all non line feed end of line characters in this file "404.php" by LF.8äç”¯2
+G	php:S2003"&Replace "require" with "require_once".(Æ¸°€øÿÿÿÿ8€õú®2
+B	php:S2003"&Replace "require" with "require_once".(øï½ñ8õú®2
+m	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(Æ¸°€øÿÿÿÿ8õú®2
+h	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(øï½ñ8õú®2
